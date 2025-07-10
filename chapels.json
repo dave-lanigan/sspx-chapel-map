@@ -1,0 +1,803 @@
+[
+  {
+    "name": "Capilla de Distrito Nacional",
+    "address": "Calle Ramón Cáceres y calle C, Barrio Cristo Rey, Distrito Nacional, República Dominicana",
+    "phone": "+18294387876",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "1er Domingo de cada mes: 17:00 horas.",
+    "latitude": 18.5029306,
+    "longitude": -69.9188953
+  },
+  {
+    "name": "Capilla Inmaculado Corazón de María",
+    "address": "Carretera S/N, Mata de Plátano, Peralvillo, República Dominicana",
+    "phone": "+18294387876",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "2º y 4º Domingo de cada mes: 7:30",
+    "latitude": 18.8336776,
+    "longitude": -70.09893339999999
+  },
+  {
+    "name": "Capilla Sagrados Corazones de Jesús y de Maria",
+    "address": "Carrera 18, n° 35-33, Bogotá, DC, Colombia",
+    "phone": "+5712858747",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Misas de martes a sábados a las 5:30 pm.Lunes sólo en las fiestas en la Capilla.Las fiestas de 1a clase, los primeros viernes y sábados las misas son en la Capilla a las 7:15 am y 5:30 pm.",
+    "latitude": 4.6248023,
+    "longitude": -74.0729652
+  },
+  {
+    "name": "Capilla San José",
+    "address": "Calle 20, # 25-35, Barrio San Francisco, Bucaramanga, SAN, Colombia",
+    "phone": "+5712454804",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Misas 1º, 2º y 3º fin de semana de cada mes desde el viernes, sábado y domingo.Misas a las 6:00 pm.Domingos 8:00 am y 10:30 am.",
+    "latitude": 7.1293007,
+    "longitude": -73.1245453
+  },
+  {
+    "name": "Capilla San José",
+    "address": "Palmar de Ocoa, Azua, República Dominicana",
+    "phone": "+18294387876",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 8:00 | 1º Viernes: 18:00 | 1º Sàbado: 18:30",
+    "latitude": 18.2967808,
+    "longitude": -70.58449949999999
+  },
+  {
+    "name": "Capilla Santa Maria de la Asunción",
+    "address": "9a Calle \"A\" 1-45, Zona 1, Guatemala, Guatemala",
+    "phone": "+50222511211",
+    "website": "https://fsspx.mx/",
+    "comments": "Domingo: 10:00 | Semana: 18:00",
+    "latitude": 14.6403751,
+    "longitude": -90.5194506
+  },
+  {
+    "name": "Ntra. Sra. de Alta Gracia",
+    "address": "Los Mosquitos, República Dominicana",
+    "phone": "+18294387876",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "1º y 3º domingo: 7:30",
+    "latitude": 18.7946081,
+    "longitude": -70.1169276
+  },
+  {
+    "name": "Oratorio Ntra. Sra. del Perpetuo Socorro",
+    "address": "Carrera 46 #66-72 Simon Bolivar, Itagüi Medellín, ANT, Colombia",
+    "phone": "+5712454804",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Misas los 2º y 4º fines de semana de cada mes, desde el jueves a domingo.Misas jueves y viernes 7:00.Sábados 6:00 pm.Domingos 8:00 am y 10:30 am.",
+    "latitude": 6.180503799999999,
+    "longitude": -75.5979457
+  },
+  {
+    "name": "Oratorio Stella Maris",
+    "address": "Avenida Morgan 2468, Panama City, Panamá",
+    "phone": "+50760364448",
+    "website": "",
+    "comments": "Todos los primeros domingos del mes, comenzando el jueves anterior al miércoles siguente.",
+    "latitude": 8.9519422,
+    "longitude": -79.5535108
+  },
+  {
+    "name": "Priorato del Sagrado Corazón",
+    "address": "La Gina de Yamasá, Monte Plata, Santo Domingo, República Dominicana",
+    "phone": "+18298842824",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 9:00 | 4º Domingo: 7.00 y 9:00 | Entresemana: 17:30 (invierno) o 18:00 (verano)",
+    "latitude": 18.8114334,
+    "longitude": -70.1131077
+  },
+  {
+    "name": "Priorato Monsr. Ezequiel Moreno Díaz",
+    "address": "Carrera 17, nº 36-10, Calle 36, n° 16-60, Bogotá, DC, Colombia",
+    "phone": "+5712454804",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "De martes a sábado: 7:15.",
+    "latitude": 4.5837847,
+    "longitude": -74.1015711
+  },
+  {
+    "name": "Priorato Nuestra Señora de Fátima",
+    "address": "7 calle 11-09, San Cristobal, zona 8 de Mixco, 01057, Mixco, Guatemala",
+    "phone": "+50224781107",
+    "website": "https://centroamerica.fsspx.org/",
+    "comments": "Domingo: 7:30 |Semana: 7:15",
+    "latitude": 14.601199,
+    "longitude": -90.59318619999999
+  },
+  {
+    "name": "Priorato Santa Teresita del Niño Jesús",
+    "address": "Calle 19 # 26-50, Barrio San Francisco, Bucaramanga, SAN, Colombia",
+    "phone": "+5776456169",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Teléfono:",
+    "latitude": 7.131670199999999,
+    "longitude": -73.1247455
+  },
+  {
+    "name": "Capilla \"Fundo Santa Elena\"",
+    "address": "Pan de Azúcar, Ruta 43, camino a Ovalle, La Serena, Coquimbo, Chile",
+    "phone": "+56229195615",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 11:00 | Sábado: 19:00 Para más información, contactarse con el Priorato Cristo Rey (Santiago de Chile)",
+    "latitude": -30.2530286,
+    "longitude": -71.255061
+  },
+  {
+    "name": "Capilla Corazón Inmaculado de María",
+    "address": "Pichi-Mahuida, Río Negro, Argentina",
+    "phone": "+541143830873",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "4º Domingo: 12:00Para más información contactarse con el Priorato San Pío X (Buenos Aires)",
+    "latitude": -38.82983,
+    "longitude": -64.9334132
+  },
+  {
+    "name": "Capilla de la Santa Cruz",
+    "address": "Rodriguez Peña, 569, 3460, Curuzú Cuatiá, Corrientes, Argentina",
+    "phone": "+543794463461",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "1er y 3er Domingo: 19:30",
+    "latitude": -29.7922511,
+    "longitude": -58.05945269999999
+  },
+  {
+    "name": "Capilla Niño Jesus de Praga",
+    "address": "Av. Cayetano Heredia n° 1164, Pueblo Libre, Lima, Gobierno Regional de Lima, Perú",
+    "phone": "+5114717233",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Para más información visite nuestro grupo Oficial en Facebook: https://www.facebook.com/Capillatradicionalistalima/",
+    "latitude": -12.0813638,
+    "longitude": -77.0471238
+  },
+  {
+    "name": "Capilla Ntra.Sra. del Carmen",
+    "address": "Isla de Flores 1930, Montevideo, Montevideo, Uruguay",
+    "phone": "+541147921556",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "2º y 4º Domingo: 11:00Para mayor información, contactarse con el Priorato San Pío X (Buenos Aires)",
+    "latitude": -34.9103251,
+    "longitude": -56.1733866
+  },
+  {
+    "name": "Capilla Nuestra Señora de Fatima",
+    "address": "Rodríguez Peña 125, 1640, Martinez, Buenos Aires, Argentina",
+    "phone": "+541147933629",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Lunes a viernes: 19:00 | Sábado: 11:00 | Domingo: 9:00 y 11:00Para mayor información, contactarse con la Casa María Reina (Sede de distrito: Tel. +54 11 50674523)",
+    "latitude": -34.4895665,
+    "longitude": -58.5031213
+  },
+  {
+    "name": "Capilla Nuestra Señora de Fatima",
+    "address": "Capitan Cau y Rolando Corte, Barrio Bajo la Viña, 4600, San Salvador de Jujuy, Jujuy, Argentina",
+    "phone": "+543874365580",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Sábados 11:45 | Domingos: 10:30 Para mayor información, contactarse con el Priorato del Inmaculado Corazón de María (Salta)",
+    "latitude": -24.1794008,
+    "longitude": -65.2790273
+  },
+  {
+    "name": "Capilla Nuestra Señora de Luján",
+    "address": "Calle Ucrania, n° 2853, 1824, Valentin Alsina, Lanús, Buenos Aires, Argentina",
+    "phone": "+541143830873",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 11:00",
+    "latitude": -34.6897956,
+    "longitude": -58.4247455
+  },
+  {
+    "name": "Capilla Nuestra Señora del Carmen",
+    "address": "Passaje Miguel Araoz 398, Obispo Romero esquina Uriburu, 4400, Salta, Salta, Argentina",
+    "phone": "+543874260618",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingos 10:30 | Sábados 9:30 | Lunes a viernes 19:00 | Martes, miércoles y jueves tbién a las 7:15 .",
+    "latitude": -24.8001689,
+    "longitude": -65.3980265
+  },
+  {
+    "name": "Capilla Nuestra Señora del Santo Rosario",
+    "address": "Pasaje Independencia, 3277, 2000, Rosario, Santa Fe, Argentina",
+    "phone": "+541143830873",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "4º Dom: 11:00 | El anterior Sábado: 19:30Para más información, contactarse con el Priorato San Pío X (Buenos Aires)",
+    "latitude": -32.9630574,
+    "longitude": -60.67341709999999
+  },
+  {
+    "name": "Capilla San Benito de Nursia",
+    "address": "B7000, Tandil, Buenos Aires, Argentina",
+    "phone": "+541147921556",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "1° Domingo: 10:30 | 1° Viernes: 19:30 | 1° Sábado: 18:30Para mayor información, contactarse con la Casa María Reina (Sede de Distrito Tel. +54 11 50674523)",
+    "latitude": -37.3287999,
+    "longitude": -59.1367167
+  },
+  {
+    "name": "Capilla San Francisco de Asís",
+    "address": "Barrio 9 de Julio, 4560, Tártagal, Salta, Argentina",
+    "phone": "+543874365581",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "4º sábados: 12:00 | 4º domingos: 10:30Para mayor información, contactarse con el Priorato del Inmaculado Corazón de María (Salta)",
+    "latitude": -22.5028645,
+    "longitude": -63.806659
+  },
+  {
+    "name": "Capilla San José",
+    "address": "Zinny, n° 2095, Barrio Kanmar, 1824, Laferrere, La Matanza, Buenos Aires, Argentina",
+    "phone": "+541143830873",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Averiguar los horarios con los padres de la Escuela del Niño Jesús (La Reja)",
+    "latitude": -34.7230648,
+    "longitude": -58.60077260000001
+  },
+  {
+    "name": "Capilla San José de los Angeles",
+    "address": "Pasaje Lopez, 126, Agua santa, Viña del Mar, Valparaíso, Chile",
+    "phone": "+56322621210",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 9:00 y 110:00 | Sábado 11:00 (1º sabado 11:00) - Viernes: 19:00 Para mayor información, contactar al Priorato Cristo Rey (Santiago de Chile) +56962067037",
+    "latitude": -33.0480132,
+    "longitude": -71.5635969
+  },
+  {
+    "name": "Capilla San Luis",
+    "address": "San Luis, San Luis, Argentina",
+    "phone": "+542614350048",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Todos los domingos del mes: 10:00Para mayor información, contactar al Priorato San José (Mendoza)",
+    "latitude": -33.8769018,
+    "longitude": -66.2367172
+  },
+  {
+    "name": "Capilla San Pablo",
+    "address": "Villa Nuges, San Pablo, Ex Ingenio, Tucumán, Argentina",
+    "phone": "+543457481634",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 11:00 | Sábado: 19:00 | 1º Viernes: 19:00Para mayor información, contactar al Priorato del Inmaculado Corazón de María (Salta)",
+    "latitude": -26.8082848,
+    "longitude": -65.2175903
+  },
+  {
+    "name": "Capilla San Pio V",
+    "address": "General Guido 227, Barrio San Martin, 5000, Córdoba, Córdoba, Argentina",
+    "phone": "+543514724554",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 9:00 y 11:00 | Martes y Jueves: 19:00 | Sábado: 11:00",
+    "latitude": -31.4020182,
+    "longitude": -64.1932875
+  },
+  {
+    "name": "Escuela del Inmaculado Corazón de María",
+    "address": "Ruta 5, esq. Bosque Alegre, Va. Montenegro, 5189, Anisacate, Córdoba, Argentina",
+    "phone": "+543547425174",
+    "website": "https://www.fsspx-sudamerica.org/es",
+    "comments": "Domingo: 9:00 | Semana: lunes a jueves: 7:15 | Viernes: 12:00 | Sábado: 8:00",
+    "latitude": -31.6992732,
+    "longitude": -64.4006682
+  },
+  {
+    "name": "Familia Villagra, Sr. Marcelo y Sra. Carolina",
+    "address": "Temuco, Araucanía, Chile",
+    "phone": "+56452642314",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 11:00 | Sàbado: 19:00Para mayor información contactar con Priorato Cristo Rey - +56962067037",
+    "latitude": -38.7366286,
+    "longitude": -72.5949577
+  },
+  {
+    "name": "Iglesia de Nuestra Señora de la Soledad",
+    "address": "General Mariano Balcarce 267, 5501, Godoy Cruz, Mendoza, Argentina",
+    "phone": "+542614350048",
+    "website": "https://www.fsspx-sudamerica.org/es",
+    "comments": "Domingo: 7:15, 8:30, 10:30 y 12:15 | Lunes a sábado: 19:00",
+    "latitude": -32.9222884,
+    "longitude": -68.8414846
+  },
+  {
+    "name": "Iglesia Nuestra Señora de Lourdes",
+    "address": "Avenida Santisima Trinidad y, Santisimo Sacramento, Asunción, Paraguay",
+    "phone": "+541143830873",
+    "website": "https://www.fsspx-sudamerica.org/es",
+    "comments": "Teléfono:",
+    "latitude": -25.2588405,
+    "longitude": -57.5798665
+  },
+  {
+    "name": "Iglesia Santa Rita",
+    "address": "Calle La Calandria, 3470, Mercedes, Corrientes, Argentina",
+    "phone": "+543794463461",
+    "website": "https://www.fsspx-sudamerica.org/es",
+    "comments": "1er y 3er Domingo: 10:00Para mayor información, contactar al Priorato Nuestra Señora de Itatí (Corrientes)",
+    "latitude": -29.1840738,
+    "longitude": -58.04794
+  },
+  {
+    "name": "Noviciado Santa Teresita del Niño Jesús",
+    "address": "C.C. 419, 1629, Pilar, Buenos Aires, Argentina",
+    "phone": "+542304470178",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 10:00 | Lunes a Viernes: 7:15",
+    "latitude": -34.4663154,
+    "longitude": -58.9153722
+  },
+  {
+    "name": "Oratorio N. Sra del Pilar",
+    "address": "Mar del Plata, Buenos Aires, Argentina",
+    "phone": "+541143830873",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Consultar los días y horarios de Misa con la Casa María Reina (Sede de Distrito, Tel. +54 11 50674523)",
+    "latitude": -38.0054771,
+    "longitude": -57.5426106
+  },
+  {
+    "name": "Oratorio San Antonio de Padua",
+    "address": "Centenario, 2922, Gonnet, Buenos Aires, Argentina",
+    "phone": "+541143830873",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Contacto: 011-4793-3629Horario de misa:Domingos 1°, y 3° de mes: 10:30 amConfesiones: 09:45",
+    "latitude": -34.8817102,
+    "longitude": -58.0083583
+  },
+  {
+    "name": "Oratorio Santiago Apostol",
+    "address": "Calle Cordoba 60, Santiago del Estero, Capital, Santiago del Estero, Argentina",
+    "phone": "+543457481634",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 20:00Para mayor información, contactar al Priorato del Inmaculado Cozarón de María (Salta)",
+    "latitude": -27.7885645,
+    "longitude": -64.2635675
+  },
+  {
+    "name": "Priorato Cristo Rey",
+    "address": "Calle Talavera de la Reina 430, Las Condes, Santiago, Región Metropolitana, Chile",
+    "phone": "+56229195615",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingos 9:00, 11:00 y 19:00 | De lunes a sabado: 19:00 | De martes a viernes: 7:15",
+    "latitude": -33.410694,
+    "longitude": -70.5465371
+  },
+  {
+    "name": "Priorato del Inmaculado Corazón de María",
+    "address": "Avenida Federico Lacrozze 917, 4400, Salta, Salta, Argentina",
+    "phone": "+543874365580",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Teléfono:",
+    "latitude": -24.7788389,
+    "longitude": -65.4499874
+  },
+  {
+    "name": "Priorato Nuestra Senõra de Itati",
+    "address": "Paraguay 1490 (esquina Rivadavia), 3400, Corrientes Capital, Corrientes, Argentina",
+    "phone": "+543794463461",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingos: 10:00",
+    "latitude": -27.4746702,
+    "longitude": -58.833812
+  },
+  {
+    "name": "Priorato San José",
+    "address": "General Bartolomé Mitre 268, 5501, Godoy Cruz, Mendoza, Argentina",
+    "phone": "+542614350048",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Teléfono:",
+    "latitude": -32.9224298,
+    "longitude": -68.8405867
+  },
+  {
+    "name": "Priorato San Pio V- Capilla Corazón Inmaculado",
+    "address": "Calle Buena Esperanza 824, Barrio El Cañito, 5186, Alta Gracia, Córdoba, Argentina",
+    "phone": "",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 11:00 | martes a viernes: 19:00 | sábado: 11:00",
+    "latitude": -31.6535331,
+    "longitude": -64.4446675
+  },
+  {
+    "name": "Priorato San Pío X",
+    "address": "Calle Venezuela 1318, 1095, Buenos Aires, Buenos Aires, Argentina",
+    "phone": "+541143830873",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Domingo: 9:30 , 11:00 y 19:00 | Lunes a sàbado : 19:00 | martes a viernes: 7:15 | Sábado: 11:30",
+    "latitude": -34.6146275,
+    "longitude": -58.38486630000001
+  },
+  {
+    "name": "Sede del Distrito de Sudamérica",
+    "address": "Casa María Reina, Pedro Goyena 2034, 1640, Martinez, Buenos Aires, Argentina",
+    "phone": "+541150674523",
+    "website": "https://www.fsspx-sudamerica.org/",
+    "comments": "Teléfono:",
+    "latitude": -34.4860619,
+    "longitude": -58.4929235
+  },
+  {
+    "name": "Capilla Corazón Inmaculado de María",
+    "address": "Avenida Manuel Ordoñez 913, Fracc Zimix, 66358, Santa Catarina, N.L., México",
+    "phone": "+525557812131",
+    "website": "/cdn-cgi/l/email-protection#0a696b796b796b646065796f4a6c79797a72246772",
+    "comments": "1, 3 y 4 domingo: 13:00 | El pasado viernes: 19:00",
+    "latitude": 25.6759233,
+    "longitude": -100.471982
+  },
+  {
+    "name": "Capilla de los Corazones de Jesús y María",
+    "address": "Calle Rueda de la Fortuna, 125, Col. La Feria, 35046, Gómez Palacio, Dgo., México",
+    "phone": "+528717232144",
+    "website": "https://fsspx.mx/",
+    "comments": "Domingo: 08:00 y 10:00",
+    "latitude": 25.581031,
+    "longitude": -103.4733218
+  },
+  {
+    "name": "Capilla del Señor del Calvario",
+    "address": "Av. Insurgentes s/n, entre Cuahutémoc y 5 de Mayo, 94442, Dos Rios, Ver., México",
+    "phone": "+522727247343",
+    "website": "https://fsspx.mx/",
+    "comments": "Domingo: 8:00",
+    "latitude": 18.9458188,
+    "longitude": -97.0278279
+  },
+  {
+    "name": "Capilla Inmaculada Concepción",
+    "address": "77510, Cancún, Q.R., México",
+    "phone": "+525557812131",
+    "website": "/cdn-cgi/l/email-protection#432022302230222d292c302603253030333b6d2e3b",
+    "comments": "4º Domingo: 09:00 | viernes y sábado anterior: 18:00",
+    "latitude": 21.1805842,
+    "longitude": -86.8396032
+  },
+  {
+    "name": "Capilla Nuestra Señora de Fátima",
+    "address": "Calle Saturno 1535, Fracc. Satélite, 32540, Ciudad Juarez, Chih., México",
+    "phone": "+526562976422",
+    "website": "",
+    "comments": "Sunday 3:00pm",
+    "latitude": 31.6802254,
+    "longitude": -106.3724229
+  },
+  {
+    "name": "Capilla Nuestra Señora de Guadalupe",
+    "address": "Miguel Schultz, 91 - Col. San Rafael, Delegación Cuauhtémoc, 06470, México, CDMX, México",
+    "phone": "+525555474324",
+    "website": "https://fsspx.mx/",
+    "comments": "Domingo: Catecismo - 09:00 hrsMisa cantada gregoriana - 10:00 hrsMisa rezada con cantos - 12:30 hrs y 18:30 hrsEntre semana (miércoles preguntar): Rosario - 18:30 hrs Misa rezada - 19:00",
+    "latitude": 19.4368356,
+    "longitude": -99.1613129
+  },
+  {
+    "name": "Capilla Sagrado Corazón",
+    "address": "Bravo Norte No 564, Zona Centro, 25000, Saltillo, Coah., México",
+    "phone": "+525557812131",
+    "website": "/cdn-cgi/l/email-protection#157674667466747b7f7a667055736666656d3b786d",
+    "comments": "1, 3 y 4 Domingo: 8:00 | El anterior Sábado: 19:00",
+    "latitude": 25.4202852,
+    "longitude": -100.997658
+  },
+  {
+    "name": "Capilla San Antonio",
+    "address": "Mérida, Yuc., México",
+    "phone": "+529999472184",
+    "website": "/cdn-cgi/l/email-protection#d1b2b0a2b0a2b0bfbbbea2b491b7a2a2a1a9ffbca9",
+    "comments": "4º Domingo: 18:30",
+    "latitude": 20.9673702,
+    "longitude": -89.5925857
+  },
+  {
+    "name": "Capilla San Atanasio",
+    "address": "Calle Arista n° 1974, col.Sta Teresita, Sector Hidalgo, 44600, Guadalajara, Jal., México",
+    "phone": "+523338253354",
+    "website": "/cdn-cgi/l/email-protection#1565677c3b66747b7461747b74667c7a55736666656d3b786d",
+    "comments": "Domingo: 08:00, 10:00, 19:00 | Semana: 7:15, 19:00, (Jueves 19:00)",
+    "latitude": 20.6772059,
+    "longitude": -103.350276
+  },
+  {
+    "name": "Capilla San Felipe de Jesús",
+    "address": "Calle Plutarco Elias Calles #283, 28000, Villa de Alvarez, Col., México",
+    "phone": "+523338253354",
+    "website": "/cdn-cgi/l/email-protection#09797b60277a6867687d6867687a6066496f7a7a7971276471",
+    "comments": "2º y 4º Domingo: 8:30 Sábado anterior: 19:00",
+    "latitude": 19.2550848,
+    "longitude": -103.7329715
+  },
+  {
+    "name": "Capilla San José",
+    "address": "Calle Sicomoro, n° 1507, Col. Las Granjas, 31160, Chihuahua, Chih., México",
+    "phone": "+526142398743",
+    "website": "/cdn-cgi/l/email-protection#f9898b90d78a98979b9c97908d96b99f8a8a8981d79481",
+    "comments": "1º, 2º y 4º domingo: 10:00",
+    "latitude": 28.6715157,
+    "longitude": -106.0981374
+  },
+  {
+    "name": "Capilla San José",
+    "address": "3a Norte Poniente # 1350, Local 6, Col. Moctezuma, 29020, Tuxtla Gutiérrez, Chis., México",
+    "phone": "+525557812131",
+    "website": "/cdn-cgi/l/email-protection#593a382a382a383733362a3c193f2a2a2921773421",
+    "comments": "2º domingo",
+    "latitude": 16.7579623,
+    "longitude": -93.1264432
+  },
+  {
+    "name": "Capilla San Miguel Arcángel",
+    "address": "Calle Castilla 190 esq. Valdepeña, Fracc. Chapultepec 2a Sección, 22870, Ensenada, B.C., México",
+    "phone": "+526461135759",
+    "website": "/cdn-cgi/l/email-protection#7c0c0e15520f1d121d081d121d0f15133c1a0f0f0c04521104",
+    "comments": "Teléfono:",
+    "latitude": 31.8662798,
+    "longitude": -116.636813
+  },
+  {
+    "name": "Capilla San Rafael Arcángel",
+    "address": "Calle Nicolás Bravo n° 287, 49600, Zapotiltic, Jal., México",
+    "phone": "+523414140427",
+    "website": "/cdn-cgi/l/email-protection#5323213a7d20323d3227323d32203a3c13352020232b7d3e2b",
+    "comments": "2º y 4º Domingo: 12:30 Viernes anterior 19:00",
+    "latitude": 19.6255031,
+    "longitude": -103.4112305
+  },
+  {
+    "name": "Casa San José",
+    "address": "Av. Xochiquetzal 249 4A - Col. Santa Isabel Tola, Alcaldía Gustavo A. Madero, 07010, Ciudad de México, CDMX, México",
+    "phone": "+525557812131",
+    "website": "/cdn-cgi/l/email-protection#6b080a180a180a050104180e2b0d18181b13450613",
+    "comments": "Teléfono:",
+    "latitude": 19.4959466,
+    "longitude": -99.11274390000001
+  },
+  {
+    "name": "Iglesia Nuestra Señora de los Angeles",
+    "address": "Calle Lago de Texcoco, 814, Col. Manantiales, 72757, Cholula, Pue., México",
+    "phone": "+522727247343",
+    "website": "/cdn-cgi/l/email-protection#bbcbc9d295c9dccddad7ded5d8d2dafbddc8c8cbc395d6c3",
+    "comments": "1º, 2º y 4º Domingo: 08:00 y 10:00",
+    "latitude": 19.082154,
+    "longitude": -98.2813037
+  },
+  {
+    "name": "Iglesia San Nicolás de Tolentino",
+    "address": "Niños Heroes de Chapultepec, esquina con Leona Vicario, 69800, Tlaxiaco, Oax., México",
+    "phone": "+529535520580",
+    "website": "/cdn-cgi/l/email-protection#82e1e3f1e3f1e3ece8edf1e7c2e4f1f1f2faaceffa",
+    "comments": "3º domingo",
+    "latitude": 17.2723595,
+    "longitude": -97.6812307
+  },
+  {
+    "name": "Instituto Venerable Padre Juan González",
+    "address": "Av. Xochiquetzal 251 - Col. Sta Isabel Tola, Delegación Gustavo A. Madero, 07010, México, CDMX, México",
+    "phone": "+525555772342",
+    "website": "/cdn-cgi/l/email-protection#d8b1aea8b2bf98beababa8a0f6b5a0",
+    "comments": "Jueves: 08:00",
+    "latitude": 19.4962688,
+    "longitude": -99.11255609999999
+  },
+  {
+    "name": "Mínimas Franciscanas del Perpetuo Socorro de María",
+    "address": "Av. Xochiquetzal 249, Col. Sta. Isabel Tola, 07010, México, CDMX, México",
+    "phone": "+525555772901",
+    "website": "https://www.minimasfranciscanas.org",
+    "comments": "Domingo: 7:30 | Semana: 7:30",
+    "latitude": 19.4959466,
+    "longitude": -99.11274390000001
+  },
+  {
+    "name": "Misión Beato Rafael Guizar y Valencia",
+    "address": "91014, Jalapa, Ver., México",
+    "phone": "+522727247343",
+    "website": "/cdn-cgi/l/email-protection#0c7c7e65227e6b7a6d6069626f656d4c6a7f7f7c74226174",
+    "comments": "4º domingo: 18:00 Lunes y martes siguientes",
+    "latitude": 19.5517203,
+    "longitude": -96.95379369999999
+  },
+  {
+    "name": "Misión de la Fraternidad Sacerdotal San Pío X",
+    "address": "71510, Ocotlán, Oax., México",
+    "phone": "+529512553855",
+    "website": "/cdn-cgi/l/email-protection#e18280928092808f8b8e9284a18792929199cf8c99",
+    "comments": "Teléfono:",
+    "latitude": 16.786676,
+    "longitude": -96.6691579
+  },
+  {
+    "name": "Misión de la Fraternidad Sacerdotal San Pío X",
+    "address": "88500, Reynosa, Tamps., México",
+    "phone": "+525557812131",
+    "website": "/cdn-cgi/l/email-protection#d9bab8aab8aab8b7b3b6aabc99bfaaaaa9a1f7b4a1",
+    "comments": "Teléfono:",
+    "latitude": 26.0914635,
+    "longitude": -98.2801065
+  },
+  {
+    "name": "Misión de la Fraternidad Sacerdotal San Pío X",
+    "address": "79000, Ciudad Valles, S.L.P., México",
+    "phone": "+524777070980",
+    "website": "/cdn-cgi/l/email-protection#acdcdec582c2dfdec3dfcddec5c3eccadfdfdcd482c1d4",
+    "comments": "Teléfono:",
+    "latitude": 21.9885931,
+    "longitude": -99.014274
+  },
+  {
+    "name": "Misión de la Fraternidad Sacerdotal San Pío X",
+    "address": "91700, Veracruz, Ver., México",
+    "phone": "",
+    "website": "https://fsspx.mx",
+    "comments": "",
+    "latitude": 19.189537,
+    "longitude": -96.13944409999999
+  },
+  {
+    "name": "Misión de la Fraternidad Sacerdotal San Pío X",
+    "address": "34000, Durango, Dgo., México",
+    "phone": "+528717232144",
+    "website": "/cdn-cgi/l/email-protection#bcccced592cfddd2ded9d2d5c8d3fcdacfcfccc492d1c4",
+    "comments": "Teléfono:",
+    "latitude": 24.0278164,
+    "longitude": -104.6616973
+  },
+  {
+    "name": "Misión de la Fraternidad Sacerdotal San Pío X",
+    "address": "68120, Oaxaca, Oax., México",
+    "phone": "+529511458723",
+    "website": "/cdn-cgi/l/email-protection#98fbf9ebf9ebf9f6f2f7ebfdd8feebebe8e0b6f5e0",
+    "comments": "3º domingo",
+    "latitude": 17.0507474,
+    "longitude": -96.71862829999999
+  },
+  {
+    "name": "Misión de la Fraternidad Sacerdotal San Pío X",
+    "address": "Avenida de las Lomas 728, Col. Españita, 36613, Irapuato, Gto., México",
+    "phone": "+524777070980",
+    "website": "/cdn-cgi/l/email-protection#3e4e4c5710504d4c514d5f4c57517e584d4d4e46105346",
+    "comments": "2º domingo: 17:00",
+    "latitude": 20.6986713,
+    "longitude": -101.3764594
+  },
+  {
+    "name": "Misión Don Bosco",
+    "address": "Calle 8 Poniente N°1507, Col. La Villa, 41100, Chilapa, Gro., México",
+    "phone": "+525555474324",
+    "website": "/cdn-cgi/l/email-protection#116163783f7f6276647075707d6461745177626261693f7c69",
+    "comments": "2º Domingo: 19:00 | El próximo lunes 8:00 (cada tres meses)",
+    "latitude": 17.5977033,
+    "longitude": -99.1812728
+  },
+  {
+    "name": "Misión Inmaculada Concepción",
+    "address": "Tejocote No 81, Colonia Barranca Seca/Puerta Madero, Altozano, 58090, Morelia, Mich., México",
+    "phone": "+525555474324",
+    "website": "/cdn-cgi/l/email-protection#dbaba9b2f5b5a8bcaebabfbab7aeabbe9bbda8a8aba3f5b6a3",
+    "comments": "4º domingo",
+    "latitude": 19.6713544,
+    "longitude": -101.1746324
+  },
+  {
+    "name": "Misión Ntra. Sra. de la Asunción",
+    "address": "Calle Arandas 502, esq. Zapotlanejo, Col. La Soledad, 20126, Aguascalientes, Ags., México",
+    "phone": "+524492383219",
+    "website": "/cdn-cgi/l/email-protection#99e9ebf0b7f7eaebf6eaf8ebf0f6d9ffeaeae9e1b7f4e1",
+    "comments": "4º domingo: 17:00 Lunes siguiente: 07:30",
+    "latitude": 21.8807234,
+    "longitude": -102.3334959
+  },
+  {
+    "name": "Misión Sagrada Familia",
+    "address": "Sandoval S/N (frente a 4), Col. Lomas de Cortés, 62583, Cuernavaca, Mor., México",
+    "phone": "+527771356240",
+    "website": "/cdn-cgi/l/email-protection#4636342f68283521332722272a33362306203535363e682b3e",
+    "comments": "3º Domingo: 10:00",
+    "latitude": 18.9346541,
+    "longitude": -99.2564473
+  },
+  {
+    "name": "Misión San Antonio María Claret",
+    "address": "Aceves Pozos N° 51, San Ignacio Cerro Gordo, Jal., México",
+    "phone": "+523481064349",
+    "website": "/cdn-cgi/l/email-protection#d8a8aab1f6abb9b6b9acb9b6b9abb1b798beababa8a0f6b5a0",
+    "comments": "1 domingo al mes: 18:00 Lunes siguiente: 07:00",
+    "latitude": 20.74664,
+    "longitude": -102.5317152
+  },
+  {
+    "name": "Misión San Francisco de Asís",
+    "address": "Galeana No. 20, frente a la Plaza Fray Margil de Jesús, Guadalupe, 98600, Zacatecas, Zac., México",
+    "phone": "+524921175318",
+    "website": "/cdn-cgi/l/email-protection#f0808299de9e83829f839182999fb09683838088de9d88",
+    "comments": "4º domingo: 09:00 Viernes y sábado anteriores: 19:00",
+    "latitude": 22.7348387,
+    "longitude": -102.5085308
+  },
+  {
+    "name": "Misión San Luis Rey",
+    "address": "Calle Independencia N° 2918, Col. Himmo Nacional, 78280, San Luis Potosí, S.L.P., México",
+    "phone": "+524442235150",
+    "website": "/cdn-cgi/l/email-protection#403032296e2e33322f332132292f0026333330386e2d38",
+    "comments": "1º y 3º domingo: 10:00 | Viernes y sábado anteriores: 19:00",
+    "latitude": 22.1324571,
+    "longitude": -100.9819334
+  },
+  {
+    "name": "Misión San Miguel Arcángel",
+    "address": "43099, Chiapa, Hgo., México",
+    "phone": "+5255474324",
+    "website": "/cdn-cgi/l/email-protection#5626243f78382531233732373a23263316302525262e783b2e",
+    "comments": "Teléfono:",
+    "latitude": 20.8815863,
+    "longitude": -98.3078175
+  },
+  {
+    "name": "Misión San Pablo Apóstol",
+    "address": "Calle Filiberto Navas esq. Fdo. Montes de Oca, Del. San Mateo Oxtotitlán, 50100, Toluca, Méx., México",
+    "phone": "+5255474324",
+    "website": "/cdn-cgi/l/email-protection#4333312a6d2d3024362227222f36332603253030333b6d2e3b",
+    "comments": "2do domingo de cada mes",
+    "latitude": 19.2972699,
+    "longitude": -99.6943356
+  },
+  {
+    "name": "Misión Santiago Apóstol",
+    "address": "Calle San Juan 28, Colonia Los Angeles, 76920, Corregidora, Qro., México",
+    "phone": "+524422425448",
+    "website": "/cdn-cgi/l/email-protection#18686a7136766b6a776b796a7177587e6b6b6860367560",
+    "comments": "1º Domingo: 10:00 | 3º domingo: 10:00 | Viernes y sábado anteriores: 18:00",
+    "latitude": 20.5075692,
+    "longitude": -100.4256085
+  },
+  {
+    "name": "Oratorio San José",
+    "address": "La Habana, La Habana, Cuba",
+    "phone": "+525557812131",
+    "website": "https://fsspx.mx/",
+    "comments": "5º domingo del mes",
+    "latitude": 23.0498395,
+    "longitude": -82.25832969999999
+  },
+  {
+    "name": "Priorato Nuestra Señora de Guadalupe",
+    "address": "Calle Jaime Torres Bodet 237 - Col. Santa María, La Ribera, Alcaldía Cuauhtémoc, 06400, Ciudad de México, CDMX, México",
+    "phone": "+525555474324",
+    "website": "/cdn-cgi/l/email-protection#7303011a5d1d0014061217121f06031633150000030b5d1e0b",
+    "comments": "Teléfono:",
+    "latitude": 19.4531108,
+    "longitude": -99.15669419999999
+  },
+  {
+    "name": "Priorato Nuestra Señora del Rosario",
+    "address": "Calle Perla esquina Fray Juan de Zumárraga, Fracc. Guadalupe, 37380, León, Gto., México",
+    "phone": "+524777070980",
+    "website": "/cdn-cgi/l/email-protection#b1c1c3d89fdfc2c3dec2d0c3d8def1d7c2c2c1c99fdcc9",
+    "comments": "Domingo: 08:00, 10:30, 12:30 | Semana: 07:15 salvo el lunes en que es a las 08:00 y 19:00 salvo los jueves",
+    "latitude": 21.112341,
+    "longitude": -101.690032
+  },
+  {
+    "name": "Priorato Rafael Guizar y Valencia",
+    "address": "Calle 11 Sur 1114, Esq. con Oriente 24, 94300, Orizaba, Ver., México",
+    "phone": "+522727247343",
+    "website": "/cdn-cgi/l/email-protection#1363617a3d617465727f767d707a7253756060636b3d7e6b",
+    "comments": "Domingo: 11:00 | Semana: 07:15 y 18:45",
+    "latitude": 18.8405904,
+    "longitude": -97.0966258
+  },
+  {
+    "name": "Priorato San Atanasio",
+    "address": "Calle Arista 1973 - Col. Villaseñor, Barrio Santa Teresita, Sector Hidalgo, 44600, Guadalajara, Jal., México",
+    "phone": "+523338253354",
+    "website": "/cdn-cgi/l/email-protection#c6b6b4afe8b5a7a8a7b2a7a8a7b5afa986a0b5b5b6bee8abbe",
+    "comments": "Teléfono:",
+    "latitude": 20.6880285,
+    "longitude": -103.367486
+  },
+  {
+    "name": "Priorato San Benito",
+    "address": "Rio Grijalva 834, Fracc. del Bosque, 35046, Gómez Palacio, Dgo., México",
+    "phone": "+528717232144",
+    "website": "/cdn-cgi/l/email-protection#6313110a4d10020d01060d0a170c23051010131b4d0e1b",
+    "comments": "Semana: 18:00 salvo el jueves: 07:15",
+    "latitude": 25.5716896,
+    "longitude": -103.4943854
+  }
+]

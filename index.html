@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Latin Mass in LATAM</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
+  />
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  />
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <style>
+    body {
+      font-family: 'Nunito', sans-serif;
+    }
+    #map {
+      height: 600px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .popup-content {
+      font-family: 'Nunito', sans-serif;
+    }
+    .popup-content h3 {
+      color: #363636;
+      margin-bottom: 0.5rem;
+    }
+    .popup-content p {
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+    }
+    .popup-content a {
+      color: #3273dc;
+      text-decoration: none;
+    }
+    .popup-content a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body></body>
+  <div id="app">
+    <section class="section">
+      <div class="container">
+        <div class="has-text-centered mb-5">
+          <h1 class="title is-2 has-text-black">SSPX in LATAM</h1>
+        </div>
+        <div class="columns is-centered">
+          <div class="column is-10">
+            <div id="map"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const { onMounted, createApp, ref } = Vue
+
+    createApp({
+      setup() {
+        const chapels = ref([])
+        
+        onMounted(async () => {
+          try {
+            // Load chapels data from JSON file
+            const response = await fetch('./chapels.json')
+            const chapelsData = await response.json()
+            chapels.value = chapelsData
+            
+            // Initialize map centered on South America
+            const map = L.map('map').setView([-15, -60], 4)
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+              attribution: '© OpenStreetMap contributors'
+            }).addTo(map)
+
+            // Add markers for each chapel with valid coordinates
+            chapelsData.forEach(chapel => {
+              if (chapel.latitude && chapel.longitude) {
+                // Create popup content with chapel information
+                const popupContent = `
+                  <div class="popup-content">
+                    <h3 class="title is-5 mb-2">${chapel.name}</h3>
+                    <p class="mb-2"><strong>Address:</strong><br>${chapel.address}</p>
+                    ${chapel.phone ? `<p class="mb-2"><strong>Phone:</strong> ${chapel.phone}</p>` : ''}
+                    ${chapel.website ? `<p class="mb-2"><strong>Website:</strong><br><a href="${chapel.website}" target="_blank">${chapel.website}</a></p>` : ''}
+                    ${chapel.comments ? `<p class="mb-2"><strong>Schedule/Comments:</strong><br>${chapel.comments}</p>` : ''}
+                  </div>
+                `
+                
+                L.marker([chapel.latitude, chapel.longitude])
+                  .addTo(map)
+                  .bindPopup(popupContent, { maxWidth: 300 })
+              }
+            })
+            
+            console.log(`Loaded ${chapelsData.length} chapels, ${chapelsData.filter(c => c.latitude && c.longitude).length} with coordinates`)
+            
+          } catch (error) {
+            console.error('Error loading chapels data:', error)
+          }
+        })
+        
+        return { chapels }
+      }
+    }).mount('#app')
+  </script>
+</body>
+</html>
