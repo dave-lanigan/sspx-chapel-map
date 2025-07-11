@@ -193,6 +193,12 @@
     // Fullscreen functionality
     let isFullscreen = false;
     
+    // Initialize the icon when page loads
+    document.addEventListener('DOMContentLoaded', function() {
+      const icon = document.getElementById('fullscreen-icon');
+      icon.textContent = '⛶';
+    });
+    
     function toggleFullscreen() {
       const mapElement = document.getElementById('map');
       const icon = document.getElementById('fullscreen-icon');
