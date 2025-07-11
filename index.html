@@ -33,6 +33,7 @@
       height: 600px;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      position: relative;
     }
     .popup-content {
       font-family: 'Nunito', sans-serif;
@@ -52,6 +53,67 @@
     .popup-content a:hover {
       text-decoration: underline;
     }
+    
+    /* Fullscreen styles */
+    .fullscreen-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+      background: white;
+      border: 2px solid rgba(0,0,0,0.2);
+      border-radius: 4px;
+      padding: 5px;
+      cursor: pointer;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.2);
+    }
+    .fullscreen-btn:hover {
+      background: #f4f4f4;
+    }
+    
+    .map-fullscreen {
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      width: 100vw !important;
+      height: 100vh !important;
+      z-index: 9999 !important;
+      border-radius: 0 !important;
+      box-shadow: none !important;
+    }
+    
+    /* Mobile responsive */
+    @media (max-width: 768px) {
+      .section {
+        padding: 1rem !important;
+      }
+      .container {
+        padding: 0 !important;
+      }
+      .column.is-10 {
+        padding: 0 !important;
+      }
+      #map {
+        height: 70vh;
+        border-radius: 4px;
+      }
+      .title.is-2 {
+        font-size: 1.5rem !important;
+        margin-bottom: 1rem !important;
+      }
+      .popup-content {
+        font-size: 0.85rem;
+      }
+    }
+    
+    @media (max-width: 480px) {
+      #map {
+        height: 60vh;
+      }
+      .mb-5 {
+        margin-bottom: 1rem !important;
+      }
+    }
   </style>
 </head>
 <body></body>
@@ -63,7 +125,11 @@
         </div>
         <div class="columns is-centered">
           <div class="column is-10">
-            <div id="map"></div>
+            <div id="map">
+              <button class="fullscreen-btn" onclick="toggleFullscreen()">
+                <span id="fullscreen-icon">⛶</span>
+              </button>
+            </div>
           </div>
         </div>
       </div>
@@ -89,6 +155,9 @@
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
               attribution: '© OpenStreetMap contributors'
             }).addTo(map)
+
+            // Store map instance globally for fullscreen functionality
+            window.mapInstance = map
 
             // Add markers for each chapel with valid coordinates
             chapelsData.forEach(chapel => {
@@ -120,6 +189,39 @@
         return { chapels }
       }
     }).mount('#app')
+    
+    // Fullscreen functionality
+    let isFullscreen = false;
+    
+    function toggleFullscreen() {
+      const mapElement = document.getElementById('map');
+      const icon = document.getElementById('fullscreen-icon');
+      
+      if (!isFullscreen) {
+        mapElement.classList.add('map-fullscreen');
+        icon.textContent = '⛉';
+        isFullscreen = true;
+        
+        // Force map to resize after fullscreen transition
+        setTimeout(() => {
+          if (window.mapInstance) {
+            window.mapInstance.invalidateSize();
+          }
+        }, 200);
+        
+      } else {
+        mapElement.classList.remove('map-fullscreen');
+        icon.textContent = '⛶';
+        isFullscreen = false;
+        
+        // Force map to resize after exiting fullscreen
+        setTimeout(() => {
+          if (window.mapInstance) {
+            window.mapInstance.invalidateSize();
+          }
+        }, 200);
+      }
+    }
   </script>
 </body>
 </html>
